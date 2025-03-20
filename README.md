@@ -20,7 +20,3 @@ To **reduce food waste, support communities, and promote sustainability** by lev
 - **Households** 🏡  
 - **Charities & Nonprofits** ❤️  
 - **Local Communities** 🌍  
-
-## 🔍 Future Goals  
-✅ **Short-term (6 months)**: Test & refine real-time tracking, predictive analytics, and XP system.  
-✅ **Long-term (2 years)**: Attract **500+ active users** globally and position Grivy as a leading solution for food waste reduction.
